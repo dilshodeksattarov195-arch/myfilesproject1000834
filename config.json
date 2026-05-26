@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentuelete",
+        "uuid": 2601246,
+        "checksum": "liv3h5"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
